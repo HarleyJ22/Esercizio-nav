@@ -37,5 +37,12 @@ h4 {
   border-width: 1px;
   font-family: Arial, Helvetica, sans-serif;
 }
-
-
+#casella
+{
+  border-top: 3px solid ;
+  border-bottom: 3px solid ;
+  border-left: 3px solid ;
+  border-right: 3px solid ;
+  border-radius: 4px;
+  border-color : green;
+}
